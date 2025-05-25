@@ -1,0 +1,6 @@
+**/__pycache__/
+.venv
+docker-compose.yaml
+.docker-ignore
+.env*
+data
